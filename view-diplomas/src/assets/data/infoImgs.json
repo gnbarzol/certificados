@@ -1,102 +1,108 @@
 [
+  {
+    "url":
+      "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-prework-1_swwhng.jpg",
+    "title": "Buenas practicas de desarrollo"
+  },
     {
       "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-cs-1_q3716j.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964455/diploma-ssr-1_hn48y8.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-react-router-redux-1_pfvgix.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-react-ejs-1_oekevo.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-singlepage-app-1_l4nodc.jpg",
-      "title": "title"
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-fundamentos-javascript-1_ek0tm5.jpg",
+      "title": "Fundamentos de Javascript"
     },
     {
       "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-ecmascript-6-1_oghxab.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-1_fnqtsy.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-lenguaje-c-2019-1_ygu23a.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-passport-1_ohqkad.jpg",
-      "title": "title"
-    },
-    {
-      "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-prework-1_swwhng.jpg",
-      "title": "title"
+      "title": "ECMA 6+"
     },
     {
       "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-javascript-profesional-1_lacryw.jpg",
-      "title": "title"
+      "title": "Profesional de Javascript"
     },
     {
       "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-frontend-developer-1_osgc2b.jpg",
-      "title": "title"
+      "title": "Frontend Developer"
     },
     {
       "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-backend-nodejs-1_fhcmqw.jpg",
-      "title": "title"
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-react-ejs-1_oekevo.jpg",
+      "title": "React JS"
     },
     {
       "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-basico-javascript-1_lualft.jpg",
-      "title": "title"
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-react-router-redux-1_pfvgix.jpg",
+      "title": "React router y Redux"
+    },
+    
+    {
+      "url":
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-asincronismo-js-1_s6strj.jpg",
+      "title": "Asincronismo con Javascript"
     },
     {
       "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-fundamentos-node-1_mbxrpr.jpg",
-      "title": "title"
+      "title": "Fundamentos de Node JS"
     },
     {
       "url":
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-passport-1_ohqkad.jpg",
+      "title": "Autenticación con Passport JS"
+    },
+    {
+      "url":
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964455/diploma-ssr-1_hn48y8.jpg",
+      "title": "Server side render con Express"
+    },
+
+    
+    {
+      "url":
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-backend-nodejs-1_fhcmqw.jpg",
+      "title": "Backend con Node JS"
+    },
+    {
+      "url":
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-basico-javascript-1_lualft.jpg",
+      "title": "Básico de Javascript"
+    },
+    {
+      "url":
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-singlepage-app-1_l4nodc.jpg",
+      "title": "Router para SPA"
+    },
+
+    {
+      "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-html5-css3-1_lnv4ek.jpg",
-      "title": "title"
+      "title": "Desarrollo web online"
     },
     {
       "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-docker-1_ct7tfw.jpg",
-      "title": "title"
+      "title": "Fundamentos de Docker"
     },
     {
       "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-git-github-1_oujyjd.jpg",
-      "title": "title"
+      "title": "Profesional en Git y GitHub"
+    },
+    
+   
+    {
+      "url":
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-1_fnqtsy.jpg",
+      "title": "Python"
     },
     {
       "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-fundamentos-javascript-1_ek0tm5.jpg",
-      "title": "title"
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-lenguaje-c-2019-1_ygu23a.jpg",
+      "title": "Introducción a C"
     },
     {
       "url":
-        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-asincronismo-js-1_s6strj.jpg",
-      "title": "title"
+        "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-cs-1_q3716j.jpg",
+      "title": "Pensamiento computacional con Python"
     }
 ]

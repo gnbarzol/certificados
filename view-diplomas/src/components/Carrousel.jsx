@@ -6,7 +6,7 @@ const infoImgs = require("../assets/data/infoImgs.json");
 function Carrousel() {
   return (
     <div className="container mt-5 mb-5">
-      <h4 className="text-center"><strong>Certificados</strong></h4>
+      <h4 className="text-center"><strong>Certificados obtenidos</strong></h4>
 
       <RViewer imageUrls={imgURLS}>
         <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3">
@@ -15,7 +15,7 @@ function Carrousel() {
               <RViewerTrigger index={index}>
                 <img src={img.url} alt={img.title} className="card-img-top" />
               </RViewerTrigger>
-                <p className="card-title text-center">{img.title}</p>
+                <p className="card-title text-center bg-light m-0 p-2">{img.title}</p>
             </div>
           ))}
         </div>
