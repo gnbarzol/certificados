@@ -13,8 +13,8 @@ function Introduction() {
           className="rounded-circle position-absolute left top"
         ></img>
         <div className="mt-5 pt-5 pb-4">
-          <h2 className="text-center mt-3">Gary Barzola Pesantes</h2>
-          <p className="pl-3 pr-4">
+          <h2 className="text-center mt-3">Gary Barzola</h2>
+          <p className="p-4">
             Estudiante de Ingeniería en Ciencias Computacionales, con
             conocimientos en varios frameworks y herramientas de desarrollo, me
             gusta el trabajo colaborativo y la buena organización en la
