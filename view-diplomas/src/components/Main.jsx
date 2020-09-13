@@ -1,5 +1,5 @@
 import React from "react";
-import Carrousel from "./Carrousel.jsx";
+import Certificados from "./Certificados.jsx";
 import Introduction from "./Introduction.jsx";
 import Footer from "./Footer.jsx";
 
@@ -7,7 +7,7 @@ function Main() {
   return (
     <>
       <Introduction />
-      <Carrousel />
+      <Certificados />
       <Footer />
     </>
   );

@@ -1,13 +1,17 @@
 .left {
-  left: 46.5%;
+  left: 47%;
 }
 
 .top {
   top: -50px;
 }
 
+.w-8 {
+  width: 80px;
+}
+
 @media only screen and (max-width: 600px) {
   .left {
-    left: 42%;
+    left: 43%;
   }
 }
