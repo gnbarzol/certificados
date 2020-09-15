@@ -25,6 +25,7 @@ function Carrousel() {
 }
 
 const imgURLS = [
+  "https://res.cloudinary.com/duo6yoqmy/image/upload/v1600185911/diploma-escuela-javascript-1_pk8nql.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-prework-1_swwhng.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-fundamentos-javascript-1_ek0tm5.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-ecmascript-6-1_oghxab.jpg",
