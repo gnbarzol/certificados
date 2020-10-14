@@ -1,5 +1,6 @@
 import React from "react";
 import { RViewer, RViewerTrigger } from "react-viewerjs";
+import '../assets/styles/certificates.css';
 
 const infoImgs = require("../assets/data/infoImgs.json");
 
