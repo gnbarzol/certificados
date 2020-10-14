@@ -13,7 +13,7 @@ function Carrousel() {
           {infoImgs.map((img, index) => (
             <div className="card mb-4" key={index}>
               <RViewerTrigger index={index}>
-                <img src={img.url} alt={img.title} className="card-img-top " />
+                <img src={img.url} alt={img.title} className="card-img-top c-pointer"/>
               </RViewerTrigger>
                 <p className="card-title text-center bg-light m-0 p-2">{img.title}</p>
             </div>
@@ -45,7 +45,8 @@ const imgURLS = [
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-git-github-1_oujyjd.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-1_fnqtsy.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-lenguaje-c-2019-1_ygu23a.jpg",
-  "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-cs-1_q3716j.jpg"
+  "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-cs-1_q3716j.jpg",
+  "https://res.cloudinary.com/duo6yoqmy/image/upload/v1602651313/diploma-next-2020-1_xf83mp.png"
 ];
 
 export default Carrousel;
