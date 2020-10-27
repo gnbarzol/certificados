@@ -26,6 +26,8 @@ function Carrousel() {
 }
 
 const imgURLS = [
+  "https://res.cloudinary.com/duo6yoqmy/image/upload/v1603822877/diploma-react-native-1_re573z.png",
+  "https://res.cloudinary.com/duo6yoqmy/image/upload/v1602651313/diploma-next-2020-1_xf83mp.png",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1600185911/diploma-escuela-javascript-1_pk8nql.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-prework-1_swwhng.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964453/diploma-fundamentos-javascript-1_ek0tm5.jpg",
@@ -47,7 +49,6 @@ const imgURLS = [
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-1_fnqtsy.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-lenguaje-c-2019-1_ygu23a.jpg",
   "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-cs-1_q3716j.jpg",
-  "https://res.cloudinary.com/duo6yoqmy/image/upload/v1602651313/diploma-next-2020-1_xf83mp.png"
 ];
 
 export default Carrousel;
