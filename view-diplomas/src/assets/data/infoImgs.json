@@ -1,6 +1,11 @@
 [
   {
     "url":
+      "https://res.cloudinary.com/duo6yoqmy/image/upload/v1606686913/diploma-angular-1_vi43nf.png",
+    "title": "Angular"
+  },
+  {
+    "url":
       "https://res.cloudinary.com/duo6yoqmy/image/upload/v1603822877/diploma-react-native-1_re573z.png",
     "title": "React Native"
   },
@@ -119,5 +124,5 @@
       "url":
         "https://res.cloudinary.com/duo6yoqmy/image/upload/v1599964454/diploma-python-cs-1_q3716j.jpg",
       "title": "Pensamiento computacional con Python"
-    },
+    }
 ]
